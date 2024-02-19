@@ -16,7 +16,7 @@ Hello World!<br> I am Janmesh Kumar, Final Year Undergrad Student pursuing by BT
 
 ### 💻 Tech Stack:
 ----
-  <div style="display: flex;flex-direction: row;flex-wrap: wrap; gap:1rem">
+  <div style="display: flex;flex-direction: row;flex-wrap: wrap; gap:1rem; margin: 1rem 0rem;">
       <img
         align="left"
         alt="c++"
@@ -78,7 +78,8 @@ Hello World!<br> I am Janmesh Kumar, Final Year Undergrad Student pursuing by BT
         alt=""
       />
     </div>
-
+<br/>
+<br/>
 
 ## Languages
   - C++
